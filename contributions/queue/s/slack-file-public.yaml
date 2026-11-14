@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: vendor-catalogs.json
 source_ref: 'Slack events: file_public'
 name: 'Slack event: file_public'
-description: file_public — a documented Slack event type, as enumerated on the Slack events/webhooks documentation
-  page. Event semantics follow the vendor's published definition; stream binding is provisional.
+description: file_public — a documented Slack event type, as enumerated on the Slack
+  events/webhooks documentation page. Event semantics follow the vendor's published
+  definition; stream binding is provisional.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://api.slack.com/events (Slack events documentation; event type: file_public)'
-  rationale: Cited from the vendor's published events/webhooks documentation, which enumerates the event
-    type verbatim. Stream binding and schema are provisional candidate values subject to canonical-admission
-    review.
+    reference: 'https://api.slack.com/events (Slack events documentation; event type:
+      file_public)'
+  rationale: Cited from the vendor's published events/webhooks documentation, which
+    enumerates the event type verbatim. Stream binding and schema are provisional
+    candidate values subject to canonical-admission review.
 tags:
 - slack
 - event-type
 slug: slack-file-public
+assigned_id: dea:event-slack-file-public-g5mgz7
+admitted: '2026-11-14'

@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: vendor-catalogs.json
 source_ref: 'Shopify events: inventory_items/delete'
 name: 'Shopify event: inventory_items/delete'
-description: inventory_items/delete — a documented Shopify event type, as enumerated on the Shopify events/webhooks
-  documentation page. Event semantics follow the vendor's published definition; stream binding is provisional.
+description: inventory_items/delete — a documented Shopify event type, as enumerated
+  on the Shopify events/webhooks documentation page. Event semantics follow the vendor's
+  published definition; stream binding is provisional.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://shopify.dev/docs/api/admin-graphql/latest/enums/WebhookSubscriptionTopic (Shopify
-      events documentation; event type: inventory_items/delete)'
-  rationale: Cited from the vendor's published events/webhooks documentation, which enumerates the event
-    type verbatim. Stream binding and schema are provisional candidate values subject to canonical-admission
-    review.
+    reference: 'https://shopify.dev/docs/api/admin-graphql/latest/enums/WebhookSubscriptionTopic
+      (Shopify events documentation; event type: inventory_items/delete)'
+  rationale: Cited from the vendor's published events/webhooks documentation, which
+    enumerates the event type verbatim. Stream binding and schema are provisional
+    candidate values subject to canonical-admission review.
 tags:
 - shopify
 - event-type
 slug: shopify-inventory-items-delete
+assigned_id: dea:event-shopify-inventory-items-delete-hatar6
+admitted: '2026-11-14'
