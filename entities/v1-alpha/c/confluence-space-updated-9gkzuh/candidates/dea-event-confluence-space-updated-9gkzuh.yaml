@@ -1,0 +1,34 @@
+id: dea:event-confluence-space-updated-9gkzuh
+type: Event
+name: 'Confluence event: space_updated'
+description: space_updated — a documented Confluence event type, as enumerated on
+  the Confluence events/webhooks documentation page. Event semantics follow the vendor's
+  published definition; stream binding is provisional.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://developer.atlassian.com/cloud/confluence/modules/webhook/
+      (Confluence events documentation; event type: space_updated)'
+  rationale: Cited from the vendor's published events/webhooks documentation, which
+    enumerates the event type verbatim. Stream binding and schema are provisional
+    candidate values subject to canonical-admission review.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- confluence
+- event-type

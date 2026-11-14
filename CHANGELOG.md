@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### CR-EVT-CAT-07: Event Candidate Admission Batch 02 (supplement)
+
+Admitted 201 new `Event` CANDIDATE records through the gated intake workflow (queue gate → admission tool → catalog gates); ids content-derived and collision-checked; records land in `candidates/` subtrees at `lifecycle_status: proposed` / version 0.1.0; candidates count +201, canonical unchanged; queue entries flipped to `admitted`.
+
 ### CR-EVT-CAT-06: Event Candidate Corpus Supplement (+201)
 
 201 additional Event candidate submissions from extended vendor families (GitLab, Bitbucket, Mailgun, Postmark, Mailchimp, Discord, Salesforce, Datadog, CloudEvents, Sentry, Confluence, Google Workspace, Vercel, Terraform Cloud); total queue 1,026 (>= the 1,000 minimum). No catalog entities change; admission follows in CR-EVT-CAT-07.

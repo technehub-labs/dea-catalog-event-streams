@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: vendor-catalogs-2.json
 source_ref: 'Vercel events: project.removed'
 name: 'Vercel event: project.removed'
-description: project.removed — a documented Vercel event type, as enumerated on the Vercel events/webhooks
-  documentation page. Event semantics follow the vendor's published definition; stream binding is provisional.
+description: project.removed — a documented Vercel event type, as enumerated on the
+  Vercel events/webhooks documentation page. Event semantics follow the vendor's published
+  definition; stream binding is provisional.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://vercel.com/docs/webhooks/deploy-events (Vercel events documentation; event type:
-      project.removed)'
-  rationale: Cited from the vendor's published events/webhooks documentation, which enumerates the event
-    type verbatim. Stream binding and schema are provisional candidate values subject to canonical-admission
-    review.
+    reference: 'https://vercel.com/docs/webhooks/deploy-events (Vercel events documentation;
+      event type: project.removed)'
+  rationale: Cited from the vendor's published events/webhooks documentation, which
+    enumerates the event type verbatim. Stream binding and schema are provisional
+    candidate values subject to canonical-admission review.
 tags:
 - vercel
 - event-type
 slug: vercel-project-removed
+assigned_id: dea:event-vercel-project-removed-f2e7nf
+admitted: '2026-11-14'
