@@ -12,3 +12,4 @@ This index tracks every change request that lands on this repository.
 Series tag `CR-EVT-CAT-NN`, sequential. Cross-repo CRs that touch this
 repository are recorded here with their home-repo identifier.
 | [EVT-CAT-02](EVT-CAT-02-evt-cat-02.md) | Entity Ingestion Groundwork (candidate intake queue + gates) | **Proposed (this PR)** | Gated intake: queue + blocking queue gate + admission tool (candidate-state subtrees, content-derived ids); pin v2.6.0→v2.8.0 + shard-aware toolchain re-vendor. No records. |
+| [EVT-CAT-03](EVT-CAT-03-evt-cat-03.md) | Event Candidate Corpus | **Landed (this PR)** | 825 queue submissions from 1 bank(s); manifest with sha256s; queue gate CONFORMANT; no entities change. |
