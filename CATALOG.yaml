@@ -1,9 +1,9 @@
 catalog:
   abbreviation: EVT
   counts:
-    candidates: 825
+    candidates: 1026
     canonical: 0
-    entities: 825
+    entities: 1026
     open_change_requests: 0
     research_files: 0
     retired: 0
@@ -954,6 +954,226 @@ catalog:
     version: 0.0.0
   - candidate_count: 2
     canonical_count: 0
+    id: dea:event-bitbucket-issue-comment-created-yzqr38
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/b/bitbucket-issue-comment-created-yzqr38/candidates/dea-event-bitbucket-issue-comment-created-yzqr38.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-bitbucket-issue-created-5dcd8d
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/b/bitbucket-issue-created-5dcd8d/candidates/dea-event-bitbucket-issue-created-5dcd8d.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-bitbucket-issue-updated-de568q
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/b/bitbucket-issue-updated-de568q/candidates/dea-event-bitbucket-issue-updated-de568q.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-bitbucket-pullrequest-approved-tdy78d
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/b/bitbucket-pullrequest-approved-tdy78d/candidates/dea-event-bitbucket-pullrequest-approved-tdy78d.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-bitbucket-pullrequest-changes-request-created-fwpwy2
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/b/bitbucket-pullrequest-changes-request-created-fwpwy2/candidates/dea-event-bitbucket-pullrequest-changes-request-created-fwpwy2.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-bitbucket-pullrequest-changes-request-removed-n8mmwb
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/b/bitbucket-pullrequest-changes-request-removed-n8mmwb/candidates/dea-event-bitbucket-pullrequest-changes-request-removed-n8mmwb.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-bitbucket-pullrequest-comment-created-r4d4fh
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/b/bitbucket-pullrequest-comment-created-r4d4fh/candidates/dea-event-bitbucket-pullrequest-comment-created-r4d4fh.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-bitbucket-pullrequest-comment-deleted-g2wmr7
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/b/bitbucket-pullrequest-comment-deleted-g2wmr7/candidates/dea-event-bitbucket-pullrequest-comment-deleted-g2wmr7.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-bitbucket-pullrequest-comment-updated-xyaag6
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/b/bitbucket-pullrequest-comment-updated-xyaag6/candidates/dea-event-bitbucket-pullrequest-comment-updated-xyaag6.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-bitbucket-pullrequest-created-abrrfp
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/b/bitbucket-pullrequest-created-abrrfp/candidates/dea-event-bitbucket-pullrequest-created-abrrfp.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-bitbucket-pullrequest-fulfilled-qkhqpr
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/b/bitbucket-pullrequest-fulfilled-qkhqpr/candidates/dea-event-bitbucket-pullrequest-fulfilled-qkhqpr.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-bitbucket-pullrequest-merge-decision-updated-yc3q68
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/b/bitbucket-pullrequest-merge-decision-updated-yc3q68/candidates/dea-event-bitbucket-pullrequest-merge-decision-updated-yc3q68.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-bitbucket-pullrequest-rejected-9gnxxm
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/b/bitbucket-pullrequest-rejected-9gnxxm/candidates/dea-event-bitbucket-pullrequest-rejected-9gnxxm.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-bitbucket-pullrequest-unapproved-gsdd7k
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/b/bitbucket-pullrequest-unapproved-gsdd7k/candidates/dea-event-bitbucket-pullrequest-unapproved-gsdd7k.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-bitbucket-pullrequest-updated-aw4ps4
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/b/bitbucket-pullrequest-updated-aw4ps4/candidates/dea-event-bitbucket-pullrequest-updated-aw4ps4.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-bitbucket-repo-deleted-85m3zg
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/b/bitbucket-repo-deleted-85m3zg/candidates/dea-event-bitbucket-repo-deleted-85m3zg.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-bitbucket-repo-forked-zgbsvw
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/b/bitbucket-repo-forked-zgbsvw/candidates/dea-event-bitbucket-repo-forked-zgbsvw.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-bitbucket-repo-push-8utkzy
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/b/bitbucket-repo-push-8utkzy/candidates/dea-event-bitbucket-repo-push-8utkzy.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-bitbucket-repo-transfer-bn3bfs
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/b/bitbucket-repo-transfer-bn3bfs/candidates/dea-event-bitbucket-repo-transfer-bn3bfs.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-bitbucket-repo-updated-upjq72
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/b/bitbucket-repo-updated-upjq72/candidates/dea-event-bitbucket-repo-updated-upjq72.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
     id: dea:event-calendly-invitee-canceled-phuzhp
     last_modified: '2026-11-14'
     lifecycle_status: candidate
@@ -980,6 +1200,314 @@ catalog:
     last_modified: '2026-11-14'
     lifecycle_status: candidate
     path: entities/v1-alpha/c/calendly-routing-form-submission-created-kefkgb/candidates/dea-event-calendly-routing-form-submission-created-kefkgb.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-cloudevents-com-example-object-created-v1-t9jj46
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/c/cloudevents-com-example-object-created-v1-t9jj46/candidates/dea-event-cloudevents-com-example-object-created-v1-t9jj46.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-cloudevents-com-example-object-deleted-v1-hystnx
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/c/cloudevents-com-example-object-deleted-v1-hystnx/candidates/dea-event-cloudevents-com-example-object-deleted-v1-hystnx.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-cloudevents-com-example-object-updated-v1-ef33zk
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/c/cloudevents-com-example-object-updated-v1-ef33zk/candidates/dea-event-cloudevents-com-example-object-updated-v1-ef33zk.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-cloudevents-io-cloudevents-sample-v1-8ae5b4
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/c/cloudevents-io-cloudevents-sample-v1-8ae5b4/candidates/dea-event-cloudevents-io-cloudevents-sample-v1-8ae5b4.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-confluence-blog-post-created-a6tyuh
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/c/confluence-blog-post-created-a6tyuh/candidates/dea-event-confluence-blog-post-created-a6tyuh.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-confluence-blog-post-deleted-h9yqs6
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/c/confluence-blog-post-deleted-h9yqs6/candidates/dea-event-confluence-blog-post-deleted-h9yqs6.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-confluence-blog-post-updated-g328eg
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/c/confluence-blog-post-updated-g328eg/candidates/dea-event-confluence-blog-post-updated-g328eg.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-confluence-blueprint-page-created-729ukx
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/c/confluence-blueprint-page-created-729ukx/candidates/dea-event-confluence-blueprint-page-created-729ukx.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-confluence-space-created-davdyd
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/c/confluence-space-created-davdyd/candidates/dea-event-confluence-space-created-davdyd.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-confluence-space-deleted-k2wn7m
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/c/confluence-space-deleted-k2wn7m/candidates/dea-event-confluence-space-deleted-k2wn7m.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-confluence-space-updated-9gkzuh
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/c/confluence-space-updated-9gkzuh/candidates/dea-event-confluence-space-updated-9gkzuh.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-confluence-wiki-comment-created-c32nkn
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/c/confluence-wiki-comment-created-c32nkn/candidates/dea-event-confluence-wiki-comment-created-c32nkn.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-confluence-wiki-comment-deleted-am5rdm
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/c/confluence-wiki-comment-deleted-am5rdm/candidates/dea-event-confluence-wiki-comment-deleted-am5rdm.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-confluence-wiki-comment-updated-w4w2at
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/c/confluence-wiki-comment-updated-w4w2at/candidates/dea-event-confluence-wiki-comment-updated-w4w2at.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-confluence-wiki-page-created-p3gjpf
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/c/confluence-wiki-page-created-p3gjpf/candidates/dea-event-confluence-wiki-page-created-p3gjpf.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-confluence-wiki-page-deleted-zyauwg
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/c/confluence-wiki-page-deleted-zyauwg/candidates/dea-event-confluence-wiki-page-deleted-zyauwg.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-confluence-wiki-page-moved-cshgbh
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/c/confluence-wiki-page-moved-cshgbh/candidates/dea-event-confluence-wiki-page-moved-cshgbh.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-confluence-wiki-page-updated-ry4awp
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/c/confluence-wiki-page-updated-ry4awp/candidates/dea-event-confluence-wiki-page-updated-ry4awp.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-datadog-alert-dqst4n
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/datadog-alert-dqst4n/candidates/dea-event-datadog-alert-dqst4n.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-datadog-error-4ktc4n
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/datadog-error-4ktc4n/candidates/dea-event-datadog-error-4ktc4n.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-datadog-monitor-alert-jpts7f
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/datadog-monitor-alert-jpts7f/candidates/dea-event-datadog-monitor-alert-jpts7f.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-datadog-monitor-error-2nzg9v
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/datadog-monitor-error-2nzg9v/candidates/dea-event-datadog-monitor-error-2nzg9v.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-datadog-monitor-no-data-yk82ac
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/datadog-monitor-no-data-yk82ac/candidates/dea-event-datadog-monitor-no-data-yk82ac.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-datadog-monitor-recovery-z3gsfz
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/datadog-monitor-recovery-z3gsfz/candidates/dea-event-datadog-monitor-recovery-z3gsfz.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-datadog-monitor-warning-3bdnf5
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/datadog-monitor-warning-3bdnf5/candidates/dea-event-datadog-monitor-warning-3bdnf5.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-datadog-recovery-mjbxyy
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/datadog-recovery-mjbxyy/candidates/dea-event-datadog-recovery-mjbxyy.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-datadog-success-tnp38x
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/datadog-success-tnp38x/candidates/dea-event-datadog-success-tnp38x.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-datadog-warning-bx2g6p
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/datadog-warning-bx2g6p/candidates/dea-event-datadog-warning-bx2g6p.yaml
     research_count: 0
     retired_count: 0
     state: candidate
@@ -1046,6 +1574,259 @@ catalog:
     last_modified: '2026-11-14'
     lifecycle_status: candidate
     path: entities/v1-alpha/d/debezium-u-update-up8pwb/candidates/dea-event-debezium-u-update-up8pwb.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-discord-channel-create-b75mxh
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/discord-channel-create-b75mxh/candidates/dea-event-discord-channel-create-b75mxh.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-discord-channel-delete-p2ez38
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/discord-channel-delete-p2ez38/candidates/dea-event-discord-channel-delete-p2ez38.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-discord-channel-update-6jc4we
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/discord-channel-update-6jc4we/candidates/dea-event-discord-channel-update-6jc4we.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-discord-guild-ban-add-hc6kky
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/discord-guild-ban-add-hc6kky/candidates/dea-event-discord-guild-ban-add-hc6kky.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-discord-guild-ban-remove-9mhycw
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/discord-guild-ban-remove-9mhycw/candidates/dea-event-discord-guild-ban-remove-9mhycw.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-discord-guild-create-5nr6mc
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/discord-guild-create-5nr6mc/candidates/dea-event-discord-guild-create-5nr6mc.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-discord-guild-delete-27bd9z
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/discord-guild-delete-27bd9z/candidates/dea-event-discord-guild-delete-27bd9z.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-discord-guild-member-add-2f47qv
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/discord-guild-member-add-2f47qv/candidates/dea-event-discord-guild-member-add-2f47qv.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-discord-guild-member-remove-zzyheq
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/discord-guild-member-remove-zzyheq/candidates/dea-event-discord-guild-member-remove-zzyheq.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-discord-guild-member-update-da5xzg
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/discord-guild-member-update-da5xzg/candidates/dea-event-discord-guild-member-update-da5xzg.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-discord-guild-update-ksfr2t
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/discord-guild-update-ksfr2t/candidates/dea-event-discord-guild-update-ksfr2t.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-discord-invite-create-9vu3tp
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/discord-invite-create-9vu3tp/candidates/dea-event-discord-invite-create-9vu3tp.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-discord-invite-delete-g6sgje
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/discord-invite-delete-g6sgje/candidates/dea-event-discord-invite-delete-g6sgje.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-discord-message-create-upy4rt
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/discord-message-create-upy4rt/candidates/dea-event-discord-message-create-upy4rt.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-discord-message-delete-qssdaw
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/discord-message-delete-qssdaw/candidates/dea-event-discord-message-delete-qssdaw.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-discord-message-reaction-add-hynpgz
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/discord-message-reaction-add-hynpgz/candidates/dea-event-discord-message-reaction-add-hynpgz.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-discord-message-reaction-remove-j8bgxs
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/discord-message-reaction-remove-j8bgxs/candidates/dea-event-discord-message-reaction-remove-j8bgxs.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-discord-message-update-vvsnhu
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/discord-message-update-vvsnhu/candidates/dea-event-discord-message-update-vvsnhu.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-discord-ready-m8qmyd
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/discord-ready-m8qmyd/candidates/dea-event-discord-ready-m8qmyd.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-discord-resumed-y87dvk
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/discord-resumed-y87dvk/candidates/dea-event-discord-resumed-y87dvk.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-discord-thread-create-j94edk
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/discord-thread-create-j94edk/candidates/dea-event-discord-thread-create-j94edk.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-discord-thread-delete-be35e2
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/discord-thread-delete-be35e2/candidates/dea-event-discord-thread-delete-be35e2.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-discord-thread-update-kmwdfk
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/d/discord-thread-update-kmwdfk/candidates/dea-event-discord-thread-update-kmwdfk.yaml
     research_count: 0
     retired_count: 0
     state: candidate
@@ -2087,6 +2868,545 @@ catalog:
     version: 0.0.0
   - candidate_count: 2
     canonical_count: 0
+    id: dea:event-gitlab-confidential-issue-8rjrje
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-confidential-issue-8rjrje/candidates/dea-event-gitlab-confidential-issue-8rjrje.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-confidential-note-kd2bup
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-confidential-note-kd2bup/candidates/dea-event-gitlab-confidential-note-kd2bup.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-deployment-failed-x2hey7
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-deployment-failed-x2hey7/candidates/dea-event-gitlab-deployment-failed-x2hey7.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-deployment-started-q76xxj
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-deployment-started-q76xxj/candidates/dea-event-gitlab-deployment-started-q76xxj.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-deployment-success-3napew
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-deployment-success-3napew/candidates/dea-event-gitlab-deployment-success-3napew.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-deployment-tda6fg
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-deployment-tda6fg/candidates/dea-event-gitlab-deployment-tda6fg.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-emoji-r8zkbv
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-emoji-r8zkbv/candidates/dea-event-gitlab-emoji-r8zkbv.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-feature-flag-afyn47
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-feature-flag-afyn47/candidates/dea-event-gitlab-feature-flag-afyn47.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-issue-closed-wqnemw
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-issue-closed-wqnemw/candidates/dea-event-gitlab-issue-closed-wqnemw.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-issue-k3pfep
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-issue-k3pfep/candidates/dea-event-gitlab-issue-k3pfep.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-issue-opened-3anyem
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-issue-opened-3anyem/candidates/dea-event-gitlab-issue-opened-3anyem.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-issue-reopened-ncy2f6
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-issue-reopened-ncy2f6/candidates/dea-event-gitlab-issue-reopened-ncy2f6.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-issue-updated-54vkr6
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-issue-updated-54vkr6/candidates/dea-event-gitlab-issue-updated-54vkr6.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-job-eas5xq
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-job-eas5xq/candidates/dea-event-gitlab-job-eas5xq.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-merge-request-approved-9w6nzk
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-merge-request-approved-9w6nzk/candidates/dea-event-gitlab-merge-request-approved-9w6nzk.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-merge-request-closed-na9u9x
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-merge-request-closed-na9u9x/candidates/dea-event-gitlab-merge-request-closed-na9u9x.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-merge-request-hpxejj
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-merge-request-hpxejj/candidates/dea-event-gitlab-merge-request-hpxejj.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-merge-request-merged-znza6w
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-merge-request-merged-znza6w/candidates/dea-event-gitlab-merge-request-merged-znza6w.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-merge-request-opened-gjj2tk
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-merge-request-opened-gjj2tk/candidates/dea-event-gitlab-merge-request-opened-gjj2tk.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-merge-request-reopened-s8ag6z
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-merge-request-reopened-s8ag6z/candidates/dea-event-gitlab-merge-request-reopened-s8ag6z.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-merge-request-unapproved-z8mhkb
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-merge-request-unapproved-z8mhkb/candidates/dea-event-gitlab-merge-request-unapproved-z8mhkb.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-note-v63w8q
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-note-v63w8q/candidates/dea-event-gitlab-note-v63w8q.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-pipeline-failed-3c895m
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-pipeline-failed-3c895m/candidates/dea-event-gitlab-pipeline-failed-3c895m.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-pipeline-gaceem
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-pipeline-gaceem/candidates/dea-event-gitlab-pipeline-gaceem.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-pipeline-succeeded-szatvm
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-pipeline-succeeded-szatvm/candidates/dea-event-gitlab-pipeline-succeeded-szatvm.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-push-m87v7y
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-push-m87v7y/candidates/dea-event-gitlab-push-m87v7y.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-release-qqfjq3
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-release-qqfjq3/candidates/dea-event-gitlab-release-qqfjq3.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-resource-access-token-x895ef
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-resource-access-token-x895ef/candidates/dea-event-gitlab-resource-access-token-x895ef.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-tag-push-6awuhc
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-tag-push-6awuhc/candidates/dea-event-gitlab-tag-push-6awuhc.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-gitlab-wiki-page-gzrbsk
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/gitlab-wiki-page-gzrbsk/candidates/dea-event-gitlab-wiki-page-gzrbsk.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-google-workspace-calendar-calendareventcreated-2qskd6
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/google-workspace-calendar-calendareventcreated-2qskd6/candidates/dea-event-google-workspace-calendar-calendareventcreated-2qskd6.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-google-workspace-calendar-calendareventdeleted-qza2mt
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/google-workspace-calendar-calendareventdeleted-qza2mt/candidates/dea-event-google-workspace-calendar-calendareventdeleted-qza2mt.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-google-workspace-calendar-calendareventupdated-mewebx
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/google-workspace-calendar-calendareventupdated-mewebx/candidates/dea-event-google-workspace-calendar-calendareventupdated-mewebx.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-google-workspace-calendar-calendarlistentryupdat-set26s
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/google-workspace-calendar-calendarlistentryupdat-set26s/candidates/dea-event-google-workspace-calendar-calendarlistentryupdat-set26s.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-google-workspace-drive-commentcreated-y5qdss
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/google-workspace-drive-commentcreated-y5qdss/candidates/dea-event-google-workspace-drive-commentcreated-y5qdss.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-google-workspace-drive-commentresolved-gcnyx8
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/google-workspace-drive-commentresolved-gcnyx8/candidates/dea-event-google-workspace-drive-commentresolved-gcnyx8.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-google-workspace-drive-filecreated-m2jren
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/google-workspace-drive-filecreated-m2jren/candidates/dea-event-google-workspace-drive-filecreated-m2jren.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-google-workspace-drive-filedeleted-6ggd2q
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/google-workspace-drive-filedeleted-6ggd2q/candidates/dea-event-google-workspace-drive-filedeleted-6ggd2q.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-google-workspace-drive-fileedited-39exmv
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/google-workspace-drive-fileedited-39exmv/candidates/dea-event-google-workspace-drive-fileedited-39exmv.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-google-workspace-drive-filepermissionschanged-3fzdps
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/google-workspace-drive-filepermissionschanged-3fzdps/candidates/dea-event-google-workspace-drive-filepermissionschanged-3fzdps.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-google-workspace-drive-filerenamed-ywmfud
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/google-workspace-drive-filerenamed-ywmfud/candidates/dea-event-google-workspace-drive-filerenamed-ywmfud.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-google-workspace-drive-filerestored-n2ceh3
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/google-workspace-drive-filerestored-n2ceh3/candidates/dea-event-google-workspace-drive-filerestored-n2ceh3.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-google-workspace-drive-fileshared-d42x82
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/google-workspace-drive-fileshared-d42x82/candidates/dea-event-google-workspace-drive-fileshared-d42x82.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-google-workspace-drive-filetrashed-7en9t6
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/google-workspace-drive-filetrashed-7en9t6/candidates/dea-event-google-workspace-drive-filetrashed-7en9t6.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-google-workspace-drive-fileunshared-j2ehy4
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/google-workspace-drive-fileunshared-j2ehy4/candidates/dea-event-google-workspace-drive-fileunshared-j2ehy4.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-google-workspace-drive-foldercreated-4fphd8
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/google-workspace-drive-foldercreated-4fphd8/candidates/dea-event-google-workspace-drive-foldercreated-4fphd8.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-google-workspace-drive-foldermoved-amvsxz
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/google-workspace-drive-foldermoved-amvsxz/candidates/dea-event-google-workspace-drive-foldermoved-amvsxz.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-google-workspace-drive-ownershipchanged-ryf5q9
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/google-workspace-drive-ownershipchanged-ryf5q9/candidates/dea-event-google-workspace-drive-ownershipchanged-ryf5q9.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-google-workspace-drive-shareddrivemembershipchan-ck7g87
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/g/google-workspace-drive-shareddrivemembershipchan-ck7g87/candidates/dea-event-google-workspace-drive-shareddrivemembershipchan-ck7g87.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
     id: dea:event-hubspot-association-change-3gfn66
     last_modified: '2026-11-14'
     lifecycle_status: candidate
@@ -2945,6 +4265,237 @@ catalog:
     version: 0.0.0
   - candidate_count: 2
     canonical_count: 0
+    id: dea:event-mailchimp-campaign-sending-status-j2m7y7
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/m/mailchimp-campaign-sending-status-j2m7y7/candidates/dea-event-mailchimp-campaign-sending-status-j2m7y7.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-mailchimp-email-bounced-csshx5
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/m/mailchimp-email-bounced-csshx5/candidates/dea-event-mailchimp-email-bounced-csshx5.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-mailchimp-email-clicked-ed9ss8
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/m/mailchimp-email-clicked-ed9ss8/candidates/dea-event-mailchimp-email-clicked-ed9ss8.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-mailchimp-email-complained-2ehmn4
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/m/mailchimp-email-complained-2ehmn4/candidates/dea-event-mailchimp-email-complained-2ehmn4.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-mailchimp-email-deferred-52ebdj
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/m/mailchimp-email-deferred-52ebdj/candidates/dea-event-mailchimp-email-deferred-52ebdj.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-mailchimp-email-delivered-wuynur
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/m/mailchimp-email-delivered-wuynur/candidates/dea-event-mailchimp-email-delivered-wuynur.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-mailchimp-email-did-not-open-zsv59a
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/m/mailchimp-email-did-not-open-zsv59a/candidates/dea-event-mailchimp-email-did-not-open-zsv59a.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-mailchimp-email-opened-kwrbxe
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/m/mailchimp-email-opened-kwrbxe/candidates/dea-event-mailchimp-email-opened-kwrbxe.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-mailchimp-profile-update-4hvyax
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/m/mailchimp-profile-update-4hvyax/candidates/dea-event-mailchimp-profile-update-4hvyax.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-mailchimp-subscribe-y8rbg5
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/m/mailchimp-subscribe-y8rbg5/candidates/dea-event-mailchimp-subscribe-y8rbg5.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-mailchimp-unsubscribe-bv4yzn
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/m/mailchimp-unsubscribe-bv4yzn/candidates/dea-event-mailchimp-unsubscribe-bv4yzn.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-mailgun-accepted-ttzzn8
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/m/mailgun-accepted-ttzzn8/candidates/dea-event-mailgun-accepted-ttzzn8.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-mailgun-clicked-qgju8s
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/m/mailgun-clicked-qgju8s/candidates/dea-event-mailgun-clicked-qgju8s.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-mailgun-complained-5fvyqb
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/m/mailgun-complained-5fvyqb/candidates/dea-event-mailgun-complained-5fvyqb.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-mailgun-delivered-qva5tk
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/m/mailgun-delivered-qva5tk/candidates/dea-event-mailgun-delivered-qva5tk.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-mailgun-failed-zmz2gv
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/m/mailgun-failed-zmz2gv/candidates/dea-event-mailgun-failed-zmz2gv.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-mailgun-opened-crc4pw
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/m/mailgun-opened-crc4pw/candidates/dea-event-mailgun-opened-crc4pw.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-mailgun-permanent-failure-x422ks
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/m/mailgun-permanent-failure-x422ks/candidates/dea-event-mailgun-permanent-failure-x422ks.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-mailgun-stored-v6xh4c
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/m/mailgun-stored-v6xh4c/candidates/dea-event-mailgun-stored-v6xh4c.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-mailgun-temporary-failure-du864c
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/m/mailgun-temporary-failure-du864c/candidates/dea-event-mailgun-temporary-failure-du864c.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-mailgun-unsubscribed-s38ymy
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/m/mailgun-unsubscribed-s38ymy/candidates/dea-event-mailgun-unsubscribed-s38ymy.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
     id: dea:event-mattermost-outgoing-webhook-message-posted-wa4mcw
     last_modified: '2026-11-14'
     lifecycle_status: candidate
@@ -3693,6 +5244,314 @@ catalog:
     version: 0.0.0
   - candidate_count: 2
     canonical_count: 0
+    id: dea:event-postmark-bounce-vmzdar
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/p/postmark-bounce-vmzdar/candidates/dea-event-postmark-bounce-vmzdar.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-postmark-emailbounced-s7jdsr
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/p/postmark-emailbounced-s7jdsr/candidates/dea-event-postmark-emailbounced-s7jdsr.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-postmark-emailclicked-dx7bne
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/p/postmark-emailclicked-dx7bne/candidates/dea-event-postmark-emailclicked-dx7bne.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-postmark-emaildelivered-b8jahj
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/p/postmark-emaildelivered-b8jahj/candidates/dea-event-postmark-emaildelivered-b8jahj.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-postmark-emailhardbounce-natmty
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/p/postmark-emailhardbounce-natmty/candidates/dea-event-postmark-emailhardbounce-natmty.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-postmark-emailopened-p59bn6
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/p/postmark-emailopened-p59bn6/candidates/dea-event-postmark-emailopened-p59bn6.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-postmark-emailrequest-jv5na7
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/p/postmark-emailrequest-jv5na7/candidates/dea-event-postmark-emailrequest-jv5na7.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-postmark-emailsent-vwtuu8
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/p/postmark-emailsent-vwtuu8/candidates/dea-event-postmark-emailsent-vwtuu8.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-postmark-emailsoftbounce-s8bjn8
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/p/postmark-emailsoftbounce-s8bjn8/candidates/dea-event-postmark-emailsoftbounce-s8bjn8.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-postmark-emailspamcomplaint-hfvy5e
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/p/postmark-emailspamcomplaint-hfvy5e/candidates/dea-event-postmark-emailspamcomplaint-hfvy5e.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-postmark-emailtransientbounce-68app7
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/p/postmark-emailtransientbounce-68app7/candidates/dea-event-postmark-emailtransientbounce-68app7.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-postmark-spamnotification-9sjfbt
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/p/postmark-spamnotification-9sjfbt/candidates/dea-event-postmark-spamnotification-9sjfbt.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-postmark-subscriptionchange-zvg7eu
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/p/postmark-subscriptionchange-zvg7eu/candidates/dea-event-postmark-subscriptionchange-zvg7eu.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-salesforce-platform-events-account-change-jvh89b
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/salesforce-platform-events-account-change-jvh89b/candidates/dea-event-salesforce-platform-events-account-change-jvh89b.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-salesforce-platform-events-asset-change-jzqwwx
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/salesforce-platform-events-asset-change-jzqwwx/candidates/dea-event-salesforce-platform-events-asset-change-jzqwwx.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-salesforce-platform-events-campaign-change-2b92qz
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/salesforce-platform-events-campaign-change-2b92qz/candidates/dea-event-salesforce-platform-events-campaign-change-2b92qz.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-salesforce-platform-events-case-change-rqyga8
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/salesforce-platform-events-case-change-rqyga8/candidates/dea-event-salesforce-platform-events-case-change-rqyga8.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-salesforce-platform-events-contact-change-3j6mk4
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/salesforce-platform-events-contact-change-3j6mk4/candidates/dea-event-salesforce-platform-events-contact-change-3j6mk4.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-salesforce-platform-events-contract-change-eyu9xh
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/salesforce-platform-events-contract-change-eyu9xh/candidates/dea-event-salesforce-platform-events-contract-change-eyu9xh.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-salesforce-platform-events-event-change-z2qt94
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/salesforce-platform-events-event-change-z2qt94/candidates/dea-event-salesforce-platform-events-event-change-z2qt94.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-salesforce-platform-events-lead-change-b2qxdc
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/salesforce-platform-events-lead-change-b2qxdc/candidates/dea-event-salesforce-platform-events-lead-change-b2qxdc.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-salesforce-platform-events-opportunity-change-py9bhx
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/salesforce-platform-events-opportunity-change-py9bhx/candidates/dea-event-salesforce-platform-events-opportunity-change-py9bhx.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-salesforce-platform-events-order-change-bucc9z
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/salesforce-platform-events-order-change-bucc9z/candidates/dea-event-salesforce-platform-events-order-change-bucc9z.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-salesforce-platform-events-product2-change-d6fjmg
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/salesforce-platform-events-product2-change-d6fjmg/candidates/dea-event-salesforce-platform-events-product2-change-d6fjmg.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-salesforce-platform-events-quote-change-7ze356
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/salesforce-platform-events-quote-change-7ze356/candidates/dea-event-salesforce-platform-events-quote-change-7ze356.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-salesforce-platform-events-solution-change-4um769
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/salesforce-platform-events-solution-change-4um769/candidates/dea-event-salesforce-platform-events-solution-change-4um769.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-salesforce-platform-events-task-change-ac8tb7
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/salesforce-platform-events-task-change-ac8tb7/candidates/dea-event-salesforce-platform-events-task-change-ac8tb7.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-salesforce-platform-events-user-change-madxgq
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/salesforce-platform-events-user-change-madxgq/candidates/dea-event-salesforce-platform-events-user-change-madxgq.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
     id: dea:event-sendgrid-blocked-r9pz33
     last_modified: '2026-11-14'
     lifecycle_status: candidate
@@ -3818,6 +5677,171 @@ catalog:
     last_modified: '2026-11-14'
     lifecycle_status: candidate
     path: entities/v1-alpha/s/sendgrid-unsubscribe-rr3w2a/candidates/dea-event-sendgrid-unsubscribe-rr3w2a.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-sentry-alert-rule-triggered-re72xa
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sentry-alert-rule-triggered-re72xa/candidates/dea-event-sentry-alert-rule-triggered-re72xa.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-sentry-comment-created-ruj9a5
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sentry-comment-created-ruj9a5/candidates/dea-event-sentry-comment-created-ruj9a5.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-sentry-comment-deleted-gy88nd
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sentry-comment-deleted-gy88nd/candidates/dea-event-sentry-comment-deleted-gy88nd.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-sentry-comment-updated-fugmuv
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sentry-comment-updated-fugmuv/candidates/dea-event-sentry-comment-updated-fugmuv.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-sentry-deployment-created-r63u2r
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sentry-deployment-created-r63u2r/candidates/dea-event-sentry-deployment-created-r63u2r.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-sentry-error-new-issue-ragkw9
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sentry-error-new-issue-ragkw9/candidates/dea-event-sentry-error-new-issue-ragkw9.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-sentry-error-new-regressed-issue-7wef9d
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sentry-error-new-regressed-issue-7wef9d/candidates/dea-event-sentry-error-new-regressed-issue-7wef9d.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-sentry-error-y3tqur
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sentry-error-y3tqur/candidates/dea-event-sentry-error-y3tqur.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-sentry-incident-created-5psupj
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sentry-incident-created-5psupj/candidates/dea-event-sentry-incident-created-5psupj.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-sentry-incident-escalating-387hwz
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sentry-incident-escalating-387hwz/candidates/dea-event-sentry-incident-escalating-387hwz.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-sentry-issue-assigned-t3z5br
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sentry-issue-assigned-t3z5br/candidates/dea-event-sentry-issue-assigned-t3z5br.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-sentry-issue-ignored-uz8m2f
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sentry-issue-ignored-uz8m2f/candidates/dea-event-sentry-issue-ignored-uz8m2f.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-sentry-issue-jsmgx5
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sentry-issue-jsmgx5/candidates/dea-event-sentry-issue-jsmgx5.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-sentry-issue-regressed-zjbbuh
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sentry-issue-regressed-zjbbuh/candidates/dea-event-sentry-issue-regressed-zjbbuh.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-sentry-issue-resolved-fszd3a
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/s/sentry-issue-resolved-fszd3a/candidates/dea-event-sentry-issue-resolved-fszd3a.yaml
     research_count: 0
     retired_count: 0
     state: candidate
@@ -8511,6 +10535,94 @@ catalog:
     version: 0.0.0
   - candidate_count: 2
     canonical_count: 0
+    id: dea:event-terraform-cloud-run-applying-yfhpuv
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/t/terraform-cloud-run-applying-yfhpuv/candidates/dea-event-terraform-cloud-run-applying-yfhpuv.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-terraform-cloud-run-completed-m327tk
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/t/terraform-cloud-run-completed-m327tk/candidates/dea-event-terraform-cloud-run-completed-m327tk.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-terraform-cloud-run-discarded-dsvu85
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/t/terraform-cloud-run-discarded-dsvu85/candidates/dea-event-terraform-cloud-run-discarded-dsvu85.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-terraform-cloud-run-errored-v2343s
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/t/terraform-cloud-run-errored-v2343s/candidates/dea-event-terraform-cloud-run-errored-v2343s.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-terraform-cloud-run-needs-attention-937k56
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/t/terraform-cloud-run-needs-attention-937k56/candidates/dea-event-terraform-cloud-run-needs-attention-937k56.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-terraform-cloud-run-planning-7pq9jy
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/t/terraform-cloud-run-planning-7pq9jy/candidates/dea-event-terraform-cloud-run-planning-7pq9jy.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-terraform-cloud-stateversion-created-srckt8
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/t/terraform-cloud-stateversion-created-srckt8/candidates/dea-event-terraform-cloud-stateversion-created-srckt8.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-terraform-cloud-workspace-updated-456g95
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/t/terraform-cloud-workspace-updated-456g95/candidates/dea-event-terraform-cloud-workspace-updated-456g95.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
     id: dea:event-trello-archived-v9xk2r
     last_modified: '2026-11-14'
     lifecycle_status: candidate
@@ -8845,6 +10957,105 @@ catalog:
     last_modified: '2026-11-14'
     lifecycle_status: candidate
     path: entities/v1-alpha/t/twilio-message-sent-w3g7zy/candidates/dea-event-twilio-message-sent-w3g7zy.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-vercel-deployment-canceled-pu9595
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/v/vercel-deployment-canceled-pu9595/candidates/dea-event-vercel-deployment-canceled-pu9595.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-vercel-deployment-check-rerequested-g2khpg
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/v/vercel-deployment-check-rerequested-g2khpg/candidates/dea-event-vercel-deployment-check-rerequested-g2khpg.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-vercel-deployment-created-jb5cck
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/v/vercel-deployment-created-jb5cck/candidates/dea-event-vercel-deployment-created-jb5cck.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-vercel-deployment-error-n8dwcv
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/v/vercel-deployment-error-n8dwcv/candidates/dea-event-vercel-deployment-error-n8dwcv.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-vercel-deployment-ready-p8jm89
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/v/vercel-deployment-ready-p8jm89/candidates/dea-event-vercel-deployment-ready-p8jm89.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-vercel-deployment-succeeded-p4pjte
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/v/vercel-deployment-succeeded-p4pjte/candidates/dea-event-vercel-deployment-succeeded-p4pjte.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-vercel-integration-installed-nrcwz5
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/v/vercel-integration-installed-nrcwz5/candidates/dea-event-vercel-integration-installed-nrcwz5.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-vercel-project-created-4yk75c
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/v/vercel-project-created-4yk75c/candidates/dea-event-vercel-project-created-4yk75c.yaml
+    research_count: 0
+    retired_count: 0
+    state: candidate
+    type: unknown
+    version: 0.0.0
+  - candidate_count: 2
+    canonical_count: 0
+    id: dea:event-vercel-project-removed-f2e7nf
+    last_modified: '2026-11-14'
+    lifecycle_status: candidate
+    path: entities/v1-alpha/v/vercel-project-removed-f2e7nf/candidates/dea-event-vercel-project-removed-f2e7nf.yaml
     research_count: 0
     retired_count: 0
     state: candidate
@@ -9353,6 +11564,66 @@ catalog:
   - entity_id: dea:event-azure-event-grid-microsoft-web-siteconfigchanged-nxut9n
     files: []
     path: entities/v1-alpha/a/azure-event-grid-microsoft-web-siteconfigchanged-nxut9n/candidates/research/
+  - entity_id: dea:event-bitbucket-issue-comment-created-yzqr38
+    files: []
+    path: entities/v1-alpha/b/bitbucket-issue-comment-created-yzqr38/candidates/research/
+  - entity_id: dea:event-bitbucket-issue-created-5dcd8d
+    files: []
+    path: entities/v1-alpha/b/bitbucket-issue-created-5dcd8d/candidates/research/
+  - entity_id: dea:event-bitbucket-issue-updated-de568q
+    files: []
+    path: entities/v1-alpha/b/bitbucket-issue-updated-de568q/candidates/research/
+  - entity_id: dea:event-bitbucket-pullrequest-approved-tdy78d
+    files: []
+    path: entities/v1-alpha/b/bitbucket-pullrequest-approved-tdy78d/candidates/research/
+  - entity_id: dea:event-bitbucket-pullrequest-changes-request-created-fwpwy2
+    files: []
+    path: entities/v1-alpha/b/bitbucket-pullrequest-changes-request-created-fwpwy2/candidates/research/
+  - entity_id: dea:event-bitbucket-pullrequest-changes-request-removed-n8mmwb
+    files: []
+    path: entities/v1-alpha/b/bitbucket-pullrequest-changes-request-removed-n8mmwb/candidates/research/
+  - entity_id: dea:event-bitbucket-pullrequest-comment-created-r4d4fh
+    files: []
+    path: entities/v1-alpha/b/bitbucket-pullrequest-comment-created-r4d4fh/candidates/research/
+  - entity_id: dea:event-bitbucket-pullrequest-comment-deleted-g2wmr7
+    files: []
+    path: entities/v1-alpha/b/bitbucket-pullrequest-comment-deleted-g2wmr7/candidates/research/
+  - entity_id: dea:event-bitbucket-pullrequest-comment-updated-xyaag6
+    files: []
+    path: entities/v1-alpha/b/bitbucket-pullrequest-comment-updated-xyaag6/candidates/research/
+  - entity_id: dea:event-bitbucket-pullrequest-created-abrrfp
+    files: []
+    path: entities/v1-alpha/b/bitbucket-pullrequest-created-abrrfp/candidates/research/
+  - entity_id: dea:event-bitbucket-pullrequest-fulfilled-qkhqpr
+    files: []
+    path: entities/v1-alpha/b/bitbucket-pullrequest-fulfilled-qkhqpr/candidates/research/
+  - entity_id: dea:event-bitbucket-pullrequest-merge-decision-updated-yc3q68
+    files: []
+    path: entities/v1-alpha/b/bitbucket-pullrequest-merge-decision-updated-yc3q68/candidates/research/
+  - entity_id: dea:event-bitbucket-pullrequest-rejected-9gnxxm
+    files: []
+    path: entities/v1-alpha/b/bitbucket-pullrequest-rejected-9gnxxm/candidates/research/
+  - entity_id: dea:event-bitbucket-pullrequest-unapproved-gsdd7k
+    files: []
+    path: entities/v1-alpha/b/bitbucket-pullrequest-unapproved-gsdd7k/candidates/research/
+  - entity_id: dea:event-bitbucket-pullrequest-updated-aw4ps4
+    files: []
+    path: entities/v1-alpha/b/bitbucket-pullrequest-updated-aw4ps4/candidates/research/
+  - entity_id: dea:event-bitbucket-repo-deleted-85m3zg
+    files: []
+    path: entities/v1-alpha/b/bitbucket-repo-deleted-85m3zg/candidates/research/
+  - entity_id: dea:event-bitbucket-repo-forked-zgbsvw
+    files: []
+    path: entities/v1-alpha/b/bitbucket-repo-forked-zgbsvw/candidates/research/
+  - entity_id: dea:event-bitbucket-repo-push-8utkzy
+    files: []
+    path: entities/v1-alpha/b/bitbucket-repo-push-8utkzy/candidates/research/
+  - entity_id: dea:event-bitbucket-repo-transfer-bn3bfs
+    files: []
+    path: entities/v1-alpha/b/bitbucket-repo-transfer-bn3bfs/candidates/research/
+  - entity_id: dea:event-bitbucket-repo-updated-upjq72
+    files: []
+    path: entities/v1-alpha/b/bitbucket-repo-updated-upjq72/candidates/research/
   - entity_id: dea:event-calendly-invitee-canceled-phuzhp
     files: []
     path: entities/v1-alpha/c/calendly-invitee-canceled-phuzhp/candidates/research/
@@ -9362,6 +11633,90 @@ catalog:
   - entity_id: dea:event-calendly-routing-form-submission-created-kefkgb
     files: []
     path: entities/v1-alpha/c/calendly-routing-form-submission-created-kefkgb/candidates/research/
+  - entity_id: dea:event-cloudevents-com-example-object-created-v1-t9jj46
+    files: []
+    path: entities/v1-alpha/c/cloudevents-com-example-object-created-v1-t9jj46/candidates/research/
+  - entity_id: dea:event-cloudevents-com-example-object-deleted-v1-hystnx
+    files: []
+    path: entities/v1-alpha/c/cloudevents-com-example-object-deleted-v1-hystnx/candidates/research/
+  - entity_id: dea:event-cloudevents-com-example-object-updated-v1-ef33zk
+    files: []
+    path: entities/v1-alpha/c/cloudevents-com-example-object-updated-v1-ef33zk/candidates/research/
+  - entity_id: dea:event-cloudevents-io-cloudevents-sample-v1-8ae5b4
+    files: []
+    path: entities/v1-alpha/c/cloudevents-io-cloudevents-sample-v1-8ae5b4/candidates/research/
+  - entity_id: dea:event-confluence-blog-post-created-a6tyuh
+    files: []
+    path: entities/v1-alpha/c/confluence-blog-post-created-a6tyuh/candidates/research/
+  - entity_id: dea:event-confluence-blog-post-deleted-h9yqs6
+    files: []
+    path: entities/v1-alpha/c/confluence-blog-post-deleted-h9yqs6/candidates/research/
+  - entity_id: dea:event-confluence-blog-post-updated-g328eg
+    files: []
+    path: entities/v1-alpha/c/confluence-blog-post-updated-g328eg/candidates/research/
+  - entity_id: dea:event-confluence-blueprint-page-created-729ukx
+    files: []
+    path: entities/v1-alpha/c/confluence-blueprint-page-created-729ukx/candidates/research/
+  - entity_id: dea:event-confluence-space-created-davdyd
+    files: []
+    path: entities/v1-alpha/c/confluence-space-created-davdyd/candidates/research/
+  - entity_id: dea:event-confluence-space-deleted-k2wn7m
+    files: []
+    path: entities/v1-alpha/c/confluence-space-deleted-k2wn7m/candidates/research/
+  - entity_id: dea:event-confluence-space-updated-9gkzuh
+    files: []
+    path: entities/v1-alpha/c/confluence-space-updated-9gkzuh/candidates/research/
+  - entity_id: dea:event-confluence-wiki-comment-created-c32nkn
+    files: []
+    path: entities/v1-alpha/c/confluence-wiki-comment-created-c32nkn/candidates/research/
+  - entity_id: dea:event-confluence-wiki-comment-deleted-am5rdm
+    files: []
+    path: entities/v1-alpha/c/confluence-wiki-comment-deleted-am5rdm/candidates/research/
+  - entity_id: dea:event-confluence-wiki-comment-updated-w4w2at
+    files: []
+    path: entities/v1-alpha/c/confluence-wiki-comment-updated-w4w2at/candidates/research/
+  - entity_id: dea:event-confluence-wiki-page-created-p3gjpf
+    files: []
+    path: entities/v1-alpha/c/confluence-wiki-page-created-p3gjpf/candidates/research/
+  - entity_id: dea:event-confluence-wiki-page-deleted-zyauwg
+    files: []
+    path: entities/v1-alpha/c/confluence-wiki-page-deleted-zyauwg/candidates/research/
+  - entity_id: dea:event-confluence-wiki-page-moved-cshgbh
+    files: []
+    path: entities/v1-alpha/c/confluence-wiki-page-moved-cshgbh/candidates/research/
+  - entity_id: dea:event-confluence-wiki-page-updated-ry4awp
+    files: []
+    path: entities/v1-alpha/c/confluence-wiki-page-updated-ry4awp/candidates/research/
+  - entity_id: dea:event-datadog-alert-dqst4n
+    files: []
+    path: entities/v1-alpha/d/datadog-alert-dqst4n/candidates/research/
+  - entity_id: dea:event-datadog-error-4ktc4n
+    files: []
+    path: entities/v1-alpha/d/datadog-error-4ktc4n/candidates/research/
+  - entity_id: dea:event-datadog-monitor-alert-jpts7f
+    files: []
+    path: entities/v1-alpha/d/datadog-monitor-alert-jpts7f/candidates/research/
+  - entity_id: dea:event-datadog-monitor-error-2nzg9v
+    files: []
+    path: entities/v1-alpha/d/datadog-monitor-error-2nzg9v/candidates/research/
+  - entity_id: dea:event-datadog-monitor-no-data-yk82ac
+    files: []
+    path: entities/v1-alpha/d/datadog-monitor-no-data-yk82ac/candidates/research/
+  - entity_id: dea:event-datadog-monitor-recovery-z3gsfz
+    files: []
+    path: entities/v1-alpha/d/datadog-monitor-recovery-z3gsfz/candidates/research/
+  - entity_id: dea:event-datadog-monitor-warning-3bdnf5
+    files: []
+    path: entities/v1-alpha/d/datadog-monitor-warning-3bdnf5/candidates/research/
+  - entity_id: dea:event-datadog-recovery-mjbxyy
+    files: []
+    path: entities/v1-alpha/d/datadog-recovery-mjbxyy/candidates/research/
+  - entity_id: dea:event-datadog-success-tnp38x
+    files: []
+    path: entities/v1-alpha/d/datadog-success-tnp38x/candidates/research/
+  - entity_id: dea:event-datadog-warning-bx2g6p
+    files: []
+    path: entities/v1-alpha/d/datadog-warning-bx2g6p/candidates/research/
   - entity_id: dea:event-debezium-c-create-xywx4m
     files: []
     path: entities/v1-alpha/d/debezium-c-create-xywx4m/candidates/research/
@@ -9380,6 +11735,75 @@ catalog:
   - entity_id: dea:event-debezium-u-update-up8pwb
     files: []
     path: entities/v1-alpha/d/debezium-u-update-up8pwb/candidates/research/
+  - entity_id: dea:event-discord-channel-create-b75mxh
+    files: []
+    path: entities/v1-alpha/d/discord-channel-create-b75mxh/candidates/research/
+  - entity_id: dea:event-discord-channel-delete-p2ez38
+    files: []
+    path: entities/v1-alpha/d/discord-channel-delete-p2ez38/candidates/research/
+  - entity_id: dea:event-discord-channel-update-6jc4we
+    files: []
+    path: entities/v1-alpha/d/discord-channel-update-6jc4we/candidates/research/
+  - entity_id: dea:event-discord-guild-ban-add-hc6kky
+    files: []
+    path: entities/v1-alpha/d/discord-guild-ban-add-hc6kky/candidates/research/
+  - entity_id: dea:event-discord-guild-ban-remove-9mhycw
+    files: []
+    path: entities/v1-alpha/d/discord-guild-ban-remove-9mhycw/candidates/research/
+  - entity_id: dea:event-discord-guild-create-5nr6mc
+    files: []
+    path: entities/v1-alpha/d/discord-guild-create-5nr6mc/candidates/research/
+  - entity_id: dea:event-discord-guild-delete-27bd9z
+    files: []
+    path: entities/v1-alpha/d/discord-guild-delete-27bd9z/candidates/research/
+  - entity_id: dea:event-discord-guild-member-add-2f47qv
+    files: []
+    path: entities/v1-alpha/d/discord-guild-member-add-2f47qv/candidates/research/
+  - entity_id: dea:event-discord-guild-member-remove-zzyheq
+    files: []
+    path: entities/v1-alpha/d/discord-guild-member-remove-zzyheq/candidates/research/
+  - entity_id: dea:event-discord-guild-member-update-da5xzg
+    files: []
+    path: entities/v1-alpha/d/discord-guild-member-update-da5xzg/candidates/research/
+  - entity_id: dea:event-discord-guild-update-ksfr2t
+    files: []
+    path: entities/v1-alpha/d/discord-guild-update-ksfr2t/candidates/research/
+  - entity_id: dea:event-discord-invite-create-9vu3tp
+    files: []
+    path: entities/v1-alpha/d/discord-invite-create-9vu3tp/candidates/research/
+  - entity_id: dea:event-discord-invite-delete-g6sgje
+    files: []
+    path: entities/v1-alpha/d/discord-invite-delete-g6sgje/candidates/research/
+  - entity_id: dea:event-discord-message-create-upy4rt
+    files: []
+    path: entities/v1-alpha/d/discord-message-create-upy4rt/candidates/research/
+  - entity_id: dea:event-discord-message-delete-qssdaw
+    files: []
+    path: entities/v1-alpha/d/discord-message-delete-qssdaw/candidates/research/
+  - entity_id: dea:event-discord-message-reaction-add-hynpgz
+    files: []
+    path: entities/v1-alpha/d/discord-message-reaction-add-hynpgz/candidates/research/
+  - entity_id: dea:event-discord-message-reaction-remove-j8bgxs
+    files: []
+    path: entities/v1-alpha/d/discord-message-reaction-remove-j8bgxs/candidates/research/
+  - entity_id: dea:event-discord-message-update-vvsnhu
+    files: []
+    path: entities/v1-alpha/d/discord-message-update-vvsnhu/candidates/research/
+  - entity_id: dea:event-discord-ready-m8qmyd
+    files: []
+    path: entities/v1-alpha/d/discord-ready-m8qmyd/candidates/research/
+  - entity_id: dea:event-discord-resumed-y87dvk
+    files: []
+    path: entities/v1-alpha/d/discord-resumed-y87dvk/candidates/research/
+  - entity_id: dea:event-discord-thread-create-j94edk
+    files: []
+    path: entities/v1-alpha/d/discord-thread-create-j94edk/candidates/research/
+  - entity_id: dea:event-discord-thread-delete-be35e2
+    files: []
+    path: entities/v1-alpha/d/discord-thread-delete-be35e2/candidates/research/
+  - entity_id: dea:event-discord-thread-update-kmwdfk
+    files: []
+    path: entities/v1-alpha/d/discord-thread-update-kmwdfk/candidates/research/
   - entity_id: dea:event-docusign-envelope-completed-v469h8
     files: []
     path: entities/v1-alpha/d/docusign-envelope-completed-v469h8/candidates/research/
@@ -9662,6 +12086,153 @@ catalog:
   - entity_id: dea:event-github-workflow-run-in-progress-t6js6r
     files: []
     path: entities/v1-alpha/g/github-workflow-run-in-progress-t6js6r/candidates/research/
+  - entity_id: dea:event-gitlab-confidential-issue-8rjrje
+    files: []
+    path: entities/v1-alpha/g/gitlab-confidential-issue-8rjrje/candidates/research/
+  - entity_id: dea:event-gitlab-confidential-note-kd2bup
+    files: []
+    path: entities/v1-alpha/g/gitlab-confidential-note-kd2bup/candidates/research/
+  - entity_id: dea:event-gitlab-deployment-failed-x2hey7
+    files: []
+    path: entities/v1-alpha/g/gitlab-deployment-failed-x2hey7/candidates/research/
+  - entity_id: dea:event-gitlab-deployment-started-q76xxj
+    files: []
+    path: entities/v1-alpha/g/gitlab-deployment-started-q76xxj/candidates/research/
+  - entity_id: dea:event-gitlab-deployment-success-3napew
+    files: []
+    path: entities/v1-alpha/g/gitlab-deployment-success-3napew/candidates/research/
+  - entity_id: dea:event-gitlab-deployment-tda6fg
+    files: []
+    path: entities/v1-alpha/g/gitlab-deployment-tda6fg/candidates/research/
+  - entity_id: dea:event-gitlab-emoji-r8zkbv
+    files: []
+    path: entities/v1-alpha/g/gitlab-emoji-r8zkbv/candidates/research/
+  - entity_id: dea:event-gitlab-feature-flag-afyn47
+    files: []
+    path: entities/v1-alpha/g/gitlab-feature-flag-afyn47/candidates/research/
+  - entity_id: dea:event-gitlab-issue-closed-wqnemw
+    files: []
+    path: entities/v1-alpha/g/gitlab-issue-closed-wqnemw/candidates/research/
+  - entity_id: dea:event-gitlab-issue-k3pfep
+    files: []
+    path: entities/v1-alpha/g/gitlab-issue-k3pfep/candidates/research/
+  - entity_id: dea:event-gitlab-issue-opened-3anyem
+    files: []
+    path: entities/v1-alpha/g/gitlab-issue-opened-3anyem/candidates/research/
+  - entity_id: dea:event-gitlab-issue-reopened-ncy2f6
+    files: []
+    path: entities/v1-alpha/g/gitlab-issue-reopened-ncy2f6/candidates/research/
+  - entity_id: dea:event-gitlab-issue-updated-54vkr6
+    files: []
+    path: entities/v1-alpha/g/gitlab-issue-updated-54vkr6/candidates/research/
+  - entity_id: dea:event-gitlab-job-eas5xq
+    files: []
+    path: entities/v1-alpha/g/gitlab-job-eas5xq/candidates/research/
+  - entity_id: dea:event-gitlab-merge-request-approved-9w6nzk
+    files: []
+    path: entities/v1-alpha/g/gitlab-merge-request-approved-9w6nzk/candidates/research/
+  - entity_id: dea:event-gitlab-merge-request-closed-na9u9x
+    files: []
+    path: entities/v1-alpha/g/gitlab-merge-request-closed-na9u9x/candidates/research/
+  - entity_id: dea:event-gitlab-merge-request-hpxejj
+    files: []
+    path: entities/v1-alpha/g/gitlab-merge-request-hpxejj/candidates/research/
+  - entity_id: dea:event-gitlab-merge-request-merged-znza6w
+    files: []
+    path: entities/v1-alpha/g/gitlab-merge-request-merged-znza6w/candidates/research/
+  - entity_id: dea:event-gitlab-merge-request-opened-gjj2tk
+    files: []
+    path: entities/v1-alpha/g/gitlab-merge-request-opened-gjj2tk/candidates/research/
+  - entity_id: dea:event-gitlab-merge-request-reopened-s8ag6z
+    files: []
+    path: entities/v1-alpha/g/gitlab-merge-request-reopened-s8ag6z/candidates/research/
+  - entity_id: dea:event-gitlab-merge-request-unapproved-z8mhkb
+    files: []
+    path: entities/v1-alpha/g/gitlab-merge-request-unapproved-z8mhkb/candidates/research/
+  - entity_id: dea:event-gitlab-note-v63w8q
+    files: []
+    path: entities/v1-alpha/g/gitlab-note-v63w8q/candidates/research/
+  - entity_id: dea:event-gitlab-pipeline-failed-3c895m
+    files: []
+    path: entities/v1-alpha/g/gitlab-pipeline-failed-3c895m/candidates/research/
+  - entity_id: dea:event-gitlab-pipeline-gaceem
+    files: []
+    path: entities/v1-alpha/g/gitlab-pipeline-gaceem/candidates/research/
+  - entity_id: dea:event-gitlab-pipeline-succeeded-szatvm
+    files: []
+    path: entities/v1-alpha/g/gitlab-pipeline-succeeded-szatvm/candidates/research/
+  - entity_id: dea:event-gitlab-push-m87v7y
+    files: []
+    path: entities/v1-alpha/g/gitlab-push-m87v7y/candidates/research/
+  - entity_id: dea:event-gitlab-release-qqfjq3
+    files: []
+    path: entities/v1-alpha/g/gitlab-release-qqfjq3/candidates/research/
+  - entity_id: dea:event-gitlab-resource-access-token-x895ef
+    files: []
+    path: entities/v1-alpha/g/gitlab-resource-access-token-x895ef/candidates/research/
+  - entity_id: dea:event-gitlab-tag-push-6awuhc
+    files: []
+    path: entities/v1-alpha/g/gitlab-tag-push-6awuhc/candidates/research/
+  - entity_id: dea:event-gitlab-wiki-page-gzrbsk
+    files: []
+    path: entities/v1-alpha/g/gitlab-wiki-page-gzrbsk/candidates/research/
+  - entity_id: dea:event-google-workspace-calendar-calendareventcreated-2qskd6
+    files: []
+    path: entities/v1-alpha/g/google-workspace-calendar-calendareventcreated-2qskd6/candidates/research/
+  - entity_id: dea:event-google-workspace-calendar-calendareventdeleted-qza2mt
+    files: []
+    path: entities/v1-alpha/g/google-workspace-calendar-calendareventdeleted-qza2mt/candidates/research/
+  - entity_id: dea:event-google-workspace-calendar-calendareventupdated-mewebx
+    files: []
+    path: entities/v1-alpha/g/google-workspace-calendar-calendareventupdated-mewebx/candidates/research/
+  - entity_id: dea:event-google-workspace-calendar-calendarlistentryupdat-set26s
+    files: []
+    path: entities/v1-alpha/g/google-workspace-calendar-calendarlistentryupdat-set26s/candidates/research/
+  - entity_id: dea:event-google-workspace-drive-commentcreated-y5qdss
+    files: []
+    path: entities/v1-alpha/g/google-workspace-drive-commentcreated-y5qdss/candidates/research/
+  - entity_id: dea:event-google-workspace-drive-commentresolved-gcnyx8
+    files: []
+    path: entities/v1-alpha/g/google-workspace-drive-commentresolved-gcnyx8/candidates/research/
+  - entity_id: dea:event-google-workspace-drive-filecreated-m2jren
+    files: []
+    path: entities/v1-alpha/g/google-workspace-drive-filecreated-m2jren/candidates/research/
+  - entity_id: dea:event-google-workspace-drive-filedeleted-6ggd2q
+    files: []
+    path: entities/v1-alpha/g/google-workspace-drive-filedeleted-6ggd2q/candidates/research/
+  - entity_id: dea:event-google-workspace-drive-fileedited-39exmv
+    files: []
+    path: entities/v1-alpha/g/google-workspace-drive-fileedited-39exmv/candidates/research/
+  - entity_id: dea:event-google-workspace-drive-filepermissionschanged-3fzdps
+    files: []
+    path: entities/v1-alpha/g/google-workspace-drive-filepermissionschanged-3fzdps/candidates/research/
+  - entity_id: dea:event-google-workspace-drive-filerenamed-ywmfud
+    files: []
+    path: entities/v1-alpha/g/google-workspace-drive-filerenamed-ywmfud/candidates/research/
+  - entity_id: dea:event-google-workspace-drive-filerestored-n2ceh3
+    files: []
+    path: entities/v1-alpha/g/google-workspace-drive-filerestored-n2ceh3/candidates/research/
+  - entity_id: dea:event-google-workspace-drive-fileshared-d42x82
+    files: []
+    path: entities/v1-alpha/g/google-workspace-drive-fileshared-d42x82/candidates/research/
+  - entity_id: dea:event-google-workspace-drive-filetrashed-7en9t6
+    files: []
+    path: entities/v1-alpha/g/google-workspace-drive-filetrashed-7en9t6/candidates/research/
+  - entity_id: dea:event-google-workspace-drive-fileunshared-j2ehy4
+    files: []
+    path: entities/v1-alpha/g/google-workspace-drive-fileunshared-j2ehy4/candidates/research/
+  - entity_id: dea:event-google-workspace-drive-foldercreated-4fphd8
+    files: []
+    path: entities/v1-alpha/g/google-workspace-drive-foldercreated-4fphd8/candidates/research/
+  - entity_id: dea:event-google-workspace-drive-foldermoved-amvsxz
+    files: []
+    path: entities/v1-alpha/g/google-workspace-drive-foldermoved-amvsxz/candidates/research/
+  - entity_id: dea:event-google-workspace-drive-ownershipchanged-ryf5q9
+    files: []
+    path: entities/v1-alpha/g/google-workspace-drive-ownershipchanged-ryf5q9/candidates/research/
+  - entity_id: dea:event-google-workspace-drive-shareddrivemembershipchan-ck7g87
+    files: []
+    path: entities/v1-alpha/g/google-workspace-drive-shareddrivemembershipchan-ck7g87/candidates/research/
   - entity_id: dea:event-hubspot-association-change-3gfn66
     files: []
     path: entities/v1-alpha/h/hubspot-association-change-3gfn66/candidates/research/
@@ -9896,6 +12467,69 @@ catalog:
   - entity_id: dea:event-linear-workflowstate-fzcdda
     files: []
     path: entities/v1-alpha/l/linear-workflowstate-fzcdda/candidates/research/
+  - entity_id: dea:event-mailchimp-campaign-sending-status-j2m7y7
+    files: []
+    path: entities/v1-alpha/m/mailchimp-campaign-sending-status-j2m7y7/candidates/research/
+  - entity_id: dea:event-mailchimp-email-bounced-csshx5
+    files: []
+    path: entities/v1-alpha/m/mailchimp-email-bounced-csshx5/candidates/research/
+  - entity_id: dea:event-mailchimp-email-clicked-ed9ss8
+    files: []
+    path: entities/v1-alpha/m/mailchimp-email-clicked-ed9ss8/candidates/research/
+  - entity_id: dea:event-mailchimp-email-complained-2ehmn4
+    files: []
+    path: entities/v1-alpha/m/mailchimp-email-complained-2ehmn4/candidates/research/
+  - entity_id: dea:event-mailchimp-email-deferred-52ebdj
+    files: []
+    path: entities/v1-alpha/m/mailchimp-email-deferred-52ebdj/candidates/research/
+  - entity_id: dea:event-mailchimp-email-delivered-wuynur
+    files: []
+    path: entities/v1-alpha/m/mailchimp-email-delivered-wuynur/candidates/research/
+  - entity_id: dea:event-mailchimp-email-did-not-open-zsv59a
+    files: []
+    path: entities/v1-alpha/m/mailchimp-email-did-not-open-zsv59a/candidates/research/
+  - entity_id: dea:event-mailchimp-email-opened-kwrbxe
+    files: []
+    path: entities/v1-alpha/m/mailchimp-email-opened-kwrbxe/candidates/research/
+  - entity_id: dea:event-mailchimp-profile-update-4hvyax
+    files: []
+    path: entities/v1-alpha/m/mailchimp-profile-update-4hvyax/candidates/research/
+  - entity_id: dea:event-mailchimp-subscribe-y8rbg5
+    files: []
+    path: entities/v1-alpha/m/mailchimp-subscribe-y8rbg5/candidates/research/
+  - entity_id: dea:event-mailchimp-unsubscribe-bv4yzn
+    files: []
+    path: entities/v1-alpha/m/mailchimp-unsubscribe-bv4yzn/candidates/research/
+  - entity_id: dea:event-mailgun-accepted-ttzzn8
+    files: []
+    path: entities/v1-alpha/m/mailgun-accepted-ttzzn8/candidates/research/
+  - entity_id: dea:event-mailgun-clicked-qgju8s
+    files: []
+    path: entities/v1-alpha/m/mailgun-clicked-qgju8s/candidates/research/
+  - entity_id: dea:event-mailgun-complained-5fvyqb
+    files: []
+    path: entities/v1-alpha/m/mailgun-complained-5fvyqb/candidates/research/
+  - entity_id: dea:event-mailgun-delivered-qva5tk
+    files: []
+    path: entities/v1-alpha/m/mailgun-delivered-qva5tk/candidates/research/
+  - entity_id: dea:event-mailgun-failed-zmz2gv
+    files: []
+    path: entities/v1-alpha/m/mailgun-failed-zmz2gv/candidates/research/
+  - entity_id: dea:event-mailgun-opened-crc4pw
+    files: []
+    path: entities/v1-alpha/m/mailgun-opened-crc4pw/candidates/research/
+  - entity_id: dea:event-mailgun-permanent-failure-x422ks
+    files: []
+    path: entities/v1-alpha/m/mailgun-permanent-failure-x422ks/candidates/research/
+  - entity_id: dea:event-mailgun-stored-v6xh4c
+    files: []
+    path: entities/v1-alpha/m/mailgun-stored-v6xh4c/candidates/research/
+  - entity_id: dea:event-mailgun-temporary-failure-du864c
+    files: []
+    path: entities/v1-alpha/m/mailgun-temporary-failure-du864c/candidates/research/
+  - entity_id: dea:event-mailgun-unsubscribed-s38ymy
+    files: []
+    path: entities/v1-alpha/m/mailgun-unsubscribed-s38ymy/candidates/research/
   - entity_id: dea:event-mattermost-outgoing-webhook-message-posted-wa4mcw
     files: []
     path: entities/v1-alpha/m/mattermost-outgoing-webhook-message-posted-wa4mcw/candidates/research/
@@ -10100,6 +12734,90 @@ catalog:
   - entity_id: dea:event-paypal-vault-payment-token-deleted-v6ugk6
     files: []
     path: entities/v1-alpha/p/paypal-vault-payment-token-deleted-v6ugk6/candidates/research/
+  - entity_id: dea:event-postmark-bounce-vmzdar
+    files: []
+    path: entities/v1-alpha/p/postmark-bounce-vmzdar/candidates/research/
+  - entity_id: dea:event-postmark-emailbounced-s7jdsr
+    files: []
+    path: entities/v1-alpha/p/postmark-emailbounced-s7jdsr/candidates/research/
+  - entity_id: dea:event-postmark-emailclicked-dx7bne
+    files: []
+    path: entities/v1-alpha/p/postmark-emailclicked-dx7bne/candidates/research/
+  - entity_id: dea:event-postmark-emaildelivered-b8jahj
+    files: []
+    path: entities/v1-alpha/p/postmark-emaildelivered-b8jahj/candidates/research/
+  - entity_id: dea:event-postmark-emailhardbounce-natmty
+    files: []
+    path: entities/v1-alpha/p/postmark-emailhardbounce-natmty/candidates/research/
+  - entity_id: dea:event-postmark-emailopened-p59bn6
+    files: []
+    path: entities/v1-alpha/p/postmark-emailopened-p59bn6/candidates/research/
+  - entity_id: dea:event-postmark-emailrequest-jv5na7
+    files: []
+    path: entities/v1-alpha/p/postmark-emailrequest-jv5na7/candidates/research/
+  - entity_id: dea:event-postmark-emailsent-vwtuu8
+    files: []
+    path: entities/v1-alpha/p/postmark-emailsent-vwtuu8/candidates/research/
+  - entity_id: dea:event-postmark-emailsoftbounce-s8bjn8
+    files: []
+    path: entities/v1-alpha/p/postmark-emailsoftbounce-s8bjn8/candidates/research/
+  - entity_id: dea:event-postmark-emailspamcomplaint-hfvy5e
+    files: []
+    path: entities/v1-alpha/p/postmark-emailspamcomplaint-hfvy5e/candidates/research/
+  - entity_id: dea:event-postmark-emailtransientbounce-68app7
+    files: []
+    path: entities/v1-alpha/p/postmark-emailtransientbounce-68app7/candidates/research/
+  - entity_id: dea:event-postmark-spamnotification-9sjfbt
+    files: []
+    path: entities/v1-alpha/p/postmark-spamnotification-9sjfbt/candidates/research/
+  - entity_id: dea:event-postmark-subscriptionchange-zvg7eu
+    files: []
+    path: entities/v1-alpha/p/postmark-subscriptionchange-zvg7eu/candidates/research/
+  - entity_id: dea:event-salesforce-platform-events-account-change-jvh89b
+    files: []
+    path: entities/v1-alpha/s/salesforce-platform-events-account-change-jvh89b/candidates/research/
+  - entity_id: dea:event-salesforce-platform-events-asset-change-jzqwwx
+    files: []
+    path: entities/v1-alpha/s/salesforce-platform-events-asset-change-jzqwwx/candidates/research/
+  - entity_id: dea:event-salesforce-platform-events-campaign-change-2b92qz
+    files: []
+    path: entities/v1-alpha/s/salesforce-platform-events-campaign-change-2b92qz/candidates/research/
+  - entity_id: dea:event-salesforce-platform-events-case-change-rqyga8
+    files: []
+    path: entities/v1-alpha/s/salesforce-platform-events-case-change-rqyga8/candidates/research/
+  - entity_id: dea:event-salesforce-platform-events-contact-change-3j6mk4
+    files: []
+    path: entities/v1-alpha/s/salesforce-platform-events-contact-change-3j6mk4/candidates/research/
+  - entity_id: dea:event-salesforce-platform-events-contract-change-eyu9xh
+    files: []
+    path: entities/v1-alpha/s/salesforce-platform-events-contract-change-eyu9xh/candidates/research/
+  - entity_id: dea:event-salesforce-platform-events-event-change-z2qt94
+    files: []
+    path: entities/v1-alpha/s/salesforce-platform-events-event-change-z2qt94/candidates/research/
+  - entity_id: dea:event-salesforce-platform-events-lead-change-b2qxdc
+    files: []
+    path: entities/v1-alpha/s/salesforce-platform-events-lead-change-b2qxdc/candidates/research/
+  - entity_id: dea:event-salesforce-platform-events-opportunity-change-py9bhx
+    files: []
+    path: entities/v1-alpha/s/salesforce-platform-events-opportunity-change-py9bhx/candidates/research/
+  - entity_id: dea:event-salesforce-platform-events-order-change-bucc9z
+    files: []
+    path: entities/v1-alpha/s/salesforce-platform-events-order-change-bucc9z/candidates/research/
+  - entity_id: dea:event-salesforce-platform-events-product2-change-d6fjmg
+    files: []
+    path: entities/v1-alpha/s/salesforce-platform-events-product2-change-d6fjmg/candidates/research/
+  - entity_id: dea:event-salesforce-platform-events-quote-change-7ze356
+    files: []
+    path: entities/v1-alpha/s/salesforce-platform-events-quote-change-7ze356/candidates/research/
+  - entity_id: dea:event-salesforce-platform-events-solution-change-4um769
+    files: []
+    path: entities/v1-alpha/s/salesforce-platform-events-solution-change-4um769/candidates/research/
+  - entity_id: dea:event-salesforce-platform-events-task-change-ac8tb7
+    files: []
+    path: entities/v1-alpha/s/salesforce-platform-events-task-change-ac8tb7/candidates/research/
+  - entity_id: dea:event-salesforce-platform-events-user-change-madxgq
+    files: []
+    path: entities/v1-alpha/s/salesforce-platform-events-user-change-madxgq/candidates/research/
   - entity_id: dea:event-sendgrid-blocked-r9pz33
     files: []
     path: entities/v1-alpha/s/sendgrid-blocked-r9pz33/candidates/research/
@@ -10136,6 +12854,51 @@ catalog:
   - entity_id: dea:event-sendgrid-unsubscribe-rr3w2a
     files: []
     path: entities/v1-alpha/s/sendgrid-unsubscribe-rr3w2a/candidates/research/
+  - entity_id: dea:event-sentry-alert-rule-triggered-re72xa
+    files: []
+    path: entities/v1-alpha/s/sentry-alert-rule-triggered-re72xa/candidates/research/
+  - entity_id: dea:event-sentry-comment-created-ruj9a5
+    files: []
+    path: entities/v1-alpha/s/sentry-comment-created-ruj9a5/candidates/research/
+  - entity_id: dea:event-sentry-comment-deleted-gy88nd
+    files: []
+    path: entities/v1-alpha/s/sentry-comment-deleted-gy88nd/candidates/research/
+  - entity_id: dea:event-sentry-comment-updated-fugmuv
+    files: []
+    path: entities/v1-alpha/s/sentry-comment-updated-fugmuv/candidates/research/
+  - entity_id: dea:event-sentry-deployment-created-r63u2r
+    files: []
+    path: entities/v1-alpha/s/sentry-deployment-created-r63u2r/candidates/research/
+  - entity_id: dea:event-sentry-error-new-issue-ragkw9
+    files: []
+    path: entities/v1-alpha/s/sentry-error-new-issue-ragkw9/candidates/research/
+  - entity_id: dea:event-sentry-error-new-regressed-issue-7wef9d
+    files: []
+    path: entities/v1-alpha/s/sentry-error-new-regressed-issue-7wef9d/candidates/research/
+  - entity_id: dea:event-sentry-error-y3tqur
+    files: []
+    path: entities/v1-alpha/s/sentry-error-y3tqur/candidates/research/
+  - entity_id: dea:event-sentry-incident-created-5psupj
+    files: []
+    path: entities/v1-alpha/s/sentry-incident-created-5psupj/candidates/research/
+  - entity_id: dea:event-sentry-incident-escalating-387hwz
+    files: []
+    path: entities/v1-alpha/s/sentry-incident-escalating-387hwz/candidates/research/
+  - entity_id: dea:event-sentry-issue-assigned-t3z5br
+    files: []
+    path: entities/v1-alpha/s/sentry-issue-assigned-t3z5br/candidates/research/
+  - entity_id: dea:event-sentry-issue-ignored-uz8m2f
+    files: []
+    path: entities/v1-alpha/s/sentry-issue-ignored-uz8m2f/candidates/research/
+  - entity_id: dea:event-sentry-issue-jsmgx5
+    files: []
+    path: entities/v1-alpha/s/sentry-issue-jsmgx5/candidates/research/
+  - entity_id: dea:event-sentry-issue-regressed-zjbbuh
+    files: []
+    path: entities/v1-alpha/s/sentry-issue-regressed-zjbbuh/candidates/research/
+  - entity_id: dea:event-sentry-issue-resolved-fszd3a
+    files: []
+    path: entities/v1-alpha/s/sentry-issue-resolved-fszd3a/candidates/research/
   - entity_id: dea:event-shopify-app-subscriptions-updated-27pca9
     files: []
     path: entities/v1-alpha/s/shopify-app-subscriptions-updated-27pca9/candidates/research/
@@ -11414,6 +14177,30 @@ catalog:
   - entity_id: dea:event-stripe-treasury-transaction-entries-updated-qyshm3
     files: []
     path: entities/v1-alpha/s/stripe-treasury-transaction-entries-updated-qyshm3/candidates/research/
+  - entity_id: dea:event-terraform-cloud-run-applying-yfhpuv
+    files: []
+    path: entities/v1-alpha/t/terraform-cloud-run-applying-yfhpuv/candidates/research/
+  - entity_id: dea:event-terraform-cloud-run-completed-m327tk
+    files: []
+    path: entities/v1-alpha/t/terraform-cloud-run-completed-m327tk/candidates/research/
+  - entity_id: dea:event-terraform-cloud-run-discarded-dsvu85
+    files: []
+    path: entities/v1-alpha/t/terraform-cloud-run-discarded-dsvu85/candidates/research/
+  - entity_id: dea:event-terraform-cloud-run-errored-v2343s
+    files: []
+    path: entities/v1-alpha/t/terraform-cloud-run-errored-v2343s/candidates/research/
+  - entity_id: dea:event-terraform-cloud-run-needs-attention-937k56
+    files: []
+    path: entities/v1-alpha/t/terraform-cloud-run-needs-attention-937k56/candidates/research/
+  - entity_id: dea:event-terraform-cloud-run-planning-7pq9jy
+    files: []
+    path: entities/v1-alpha/t/terraform-cloud-run-planning-7pq9jy/candidates/research/
+  - entity_id: dea:event-terraform-cloud-stateversion-created-srckt8
+    files: []
+    path: entities/v1-alpha/t/terraform-cloud-stateversion-created-srckt8/candidates/research/
+  - entity_id: dea:event-terraform-cloud-workspace-updated-456g95
+    files: []
+    path: entities/v1-alpha/t/terraform-cloud-workspace-updated-456g95/candidates/research/
   - entity_id: dea:event-trello-archived-v9xk2r
     files: []
     path: entities/v1-alpha/t/trello-archived-v9xk2r/candidates/research/
@@ -11507,6 +14294,33 @@ catalog:
   - entity_id: dea:event-twilio-message-sent-w3g7zy
     files: []
     path: entities/v1-alpha/t/twilio-message-sent-w3g7zy/candidates/research/
+  - entity_id: dea:event-vercel-deployment-canceled-pu9595
+    files: []
+    path: entities/v1-alpha/v/vercel-deployment-canceled-pu9595/candidates/research/
+  - entity_id: dea:event-vercel-deployment-check-rerequested-g2khpg
+    files: []
+    path: entities/v1-alpha/v/vercel-deployment-check-rerequested-g2khpg/candidates/research/
+  - entity_id: dea:event-vercel-deployment-created-jb5cck
+    files: []
+    path: entities/v1-alpha/v/vercel-deployment-created-jb5cck/candidates/research/
+  - entity_id: dea:event-vercel-deployment-error-n8dwcv
+    files: []
+    path: entities/v1-alpha/v/vercel-deployment-error-n8dwcv/candidates/research/
+  - entity_id: dea:event-vercel-deployment-ready-p8jm89
+    files: []
+    path: entities/v1-alpha/v/vercel-deployment-ready-p8jm89/candidates/research/
+  - entity_id: dea:event-vercel-deployment-succeeded-p4pjte
+    files: []
+    path: entities/v1-alpha/v/vercel-deployment-succeeded-p4pjte/candidates/research/
+  - entity_id: dea:event-vercel-integration-installed-nrcwz5
+    files: []
+    path: entities/v1-alpha/v/vercel-integration-installed-nrcwz5/candidates/research/
+  - entity_id: dea:event-vercel-project-created-4yk75c
+    files: []
+    path: entities/v1-alpha/v/vercel-project-created-4yk75c/candidates/research/
+  - entity_id: dea:event-vercel-project-removed-f2e7nf
+    files: []
+    path: entities/v1-alpha/v/vercel-project-removed-f2e7nf/candidates/research/
   - entity_id: dea:event-zoom-meeting-created-wy8jcy
     files: []
     path: entities/v1-alpha/z/zoom-meeting-created-wy8jcy/candidates/research/

@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: vendor-catalogs-2.json
 source_ref: 'GitLab events: pipeline_succeeded'
 name: 'GitLab event: pipeline_succeeded'
-description: pipeline_succeeded — a documented GitLab event type, as enumerated on the GitLab events/webhooks
-  documentation page. Event semantics follow the vendor's published definition; stream binding is provisional.
+description: pipeline_succeeded — a documented GitLab event type, as enumerated on
+  the GitLab events/webhooks documentation page. Event semantics follow the vendor's
+  published definition; stream binding is provisional.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://docs.gitlab.com/ee/user/project/integrations/webhook_events.html (GitLab events
-      documentation; event type: pipeline_succeeded)'
-  rationale: Cited from the vendor's published events/webhooks documentation, which enumerates the event
-    type verbatim. Stream binding and schema are provisional candidate values subject to canonical-admission
-    review.
+    reference: 'https://docs.gitlab.com/ee/user/project/integrations/webhook_events.html
+      (GitLab events documentation; event type: pipeline_succeeded)'
+  rationale: Cited from the vendor's published events/webhooks documentation, which
+    enumerates the event type verbatim. Stream binding and schema are provisional
+    candidate values subject to canonical-admission review.
 tags:
 - gitlab
 - event-type
 slug: gitlab-pipeline-succeeded
+assigned_id: dea:event-gitlab-pipeline-succeeded-szatvm
+admitted: '2026-11-14'
