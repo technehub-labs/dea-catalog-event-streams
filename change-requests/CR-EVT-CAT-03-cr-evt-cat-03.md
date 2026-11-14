@@ -1,6 +1,8 @@
-# EVT-CAT-03: Event Candidate Corpus
+# CR-CR-EVT-CAT-03: Event Candidate Corpus
 
 **Status**: Landed (this PR)
+
+**Naming/numbering correction**: this CR landed as `EVT-CAT-03` without the house `CR-` prefix (driver defect, fixed in the programme tooling). Renamed to `CR-EVT-CAT-03` by the naming-correction CR (CR-EVT-CAT-05); content unchanged.
 **Layer**: Catalog content (candidate corpus intake)
 **Owner**: Emmanuel A. Otchere
 **Date**: 2026-11-15

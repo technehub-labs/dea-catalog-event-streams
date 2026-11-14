@@ -1,6 +1,8 @@
-# EVT-CAT-01: Event Candidate Admission Batch 02 (Adyen event: AUTHORISATION_ADJUSTMENT … Zoom event: webinar.updated)
+# CR-EVT-CAT-04: Event Candidate Admission Batch 02 (Adyen event: AUTHORISATION_ADJUSTMENT … Zoom event: webinar.updated)
 
 **Status**: Landed (this PR)
+
+**Naming/numbering correction**: this CR landed as `EVT-CAT-01` without the house `CR-` prefix (driver defect, fixed in the programme tooling). Renamed to `CR-EVT-CAT-04` by the naming-correction CR (CR-EVT-CAT-05); content unchanged.
 **Layer**: Catalog content (candidate corpus admission)
 **Owner**: Emmanuel A. Otchere
 **Date**: 2026-11-15
