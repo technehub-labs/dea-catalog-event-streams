@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: vendor-catalogs.json
+source_ref: 'Asana events: section changed'
+name: 'Asana event: section changed'
+description: section changed — a documented Asana event type, as enumerated on the Asana events/webhooks
+  documentation page. Event semantics follow the vendor's published definition; stream binding is provisional.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://developers.asana.com/docs/webhooks (Asana events documentation; event type: section
+      changed)'
+  rationale: Cited from the vendor's published events/webhooks documentation, which enumerates the event
+    type verbatim. Stream binding and schema are provisional candidate values subject to canonical-admission
+    review.
+tags:
+- asana
+- event-type
+slug: asana-section-changed

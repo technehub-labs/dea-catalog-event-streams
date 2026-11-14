@@ -1,0 +1,18 @@
+# Ingestion manifest — Event candidate corpus (EVT-CAT-03)
+# Records are candidates only (queue status: queued; admitted at
+# lifecycle_status: proposed / version 0.1.0 by the gated workflow).
+
+generated: '2026-11-15'
+generated_by: ingest-kit generate_queue.py (catalog population programme)
+submitted_by: Emmanuel A. Otchere
+record_count: 825
+sources:
+- bank: vendor-catalogs.json
+  source: "Composed vendor event/webhook documentation catalogs (GitHub, Stripe, Slack, Shopify, cloud + SaaS vendors)"
+  url: "https://docs.github.com/en/webhooks-and-events/webhooks/webhook-events-and-payloads"
+  published: "per-record vendor documentation URLs"
+  retrieved: '2026-11-15'
+  sha256: 5ad35e02176c88af582440270b44ee877fd3a1181588a7c0574f55796e597bee
+  records: 825
+queue_layout: contributions/queue/<shard>/<slug>.yaml (entity-storage-layout §4;
+  letter shards; slug prefixes chosen to keep every shard under the 800-entry cap)
