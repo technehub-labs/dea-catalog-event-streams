@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### EVT-CAT-01: Event Candidate Admission Batch 02
+
+Admitted 825 new `Event` CANDIDATE records through the gated intake workflow (queue gate → admission tool → catalog gates); ids content-derived and collision-checked; records land in `candidates/` subtrees at `lifecycle_status: proposed` / version 0.1.0; candidates count +825, canonical unchanged; queue entries flipped to `admitted`.
+
 ### EVT-CAT-03: Event Candidate Corpus
 
 825 Event candidate submissions landed in the contribution queue (sharded, gate-CONFORMANT) from 1 evidence bank(s); published prose + evidence citations + source_refs; provenance in ingestion/manifest.yaml. No catalog entities change; admission follows in EVT-CAT-04+.

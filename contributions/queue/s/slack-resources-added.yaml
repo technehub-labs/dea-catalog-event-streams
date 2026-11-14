@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: vendor-catalogs.json
 source_ref: 'Slack events: resources_added'
 name: 'Slack event: resources_added'
-description: resources_added — a documented Slack event type, as enumerated on the Slack events/webhooks
-  documentation page. Event semantics follow the vendor's published definition; stream binding is provisional.
+description: resources_added — a documented Slack event type, as enumerated on the
+  Slack events/webhooks documentation page. Event semantics follow the vendor's published
+  definition; stream binding is provisional.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://api.slack.com/events (Slack events documentation; event type: resources_added)'
-  rationale: Cited from the vendor's published events/webhooks documentation, which enumerates the event
-    type verbatim. Stream binding and schema are provisional candidate values subject to canonical-admission
-    review.
+    reference: 'https://api.slack.com/events (Slack events documentation; event type:
+      resources_added)'
+  rationale: Cited from the vendor's published events/webhooks documentation, which
+    enumerates the event type verbatim. Stream binding and schema are provisional
+    candidate values subject to canonical-admission review.
 tags:
 - slack
 - event-type
 slug: slack-resources-added
+assigned_id: dea:event-slack-resources-added-h6ys7d
+admitted: '2026-11-14'

@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: vendor-catalogs.json
 source_ref: 'Twilio events: message.queued'
 name: 'Twilio event: message.queued'
-description: message.queued — a documented Twilio event type, as enumerated on the Twilio events/webhooks
-  documentation page. Event semantics follow the vendor's published definition; stream binding is provisional.
+description: message.queued — a documented Twilio event type, as enumerated on the
+  Twilio events/webhooks documentation page. Event semantics follow the vendor's published
+  definition; stream binding is provisional.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://www.twilio.com/docs/usage/webhooks (Twilio events documentation; event type: message.queued)'
-  rationale: Cited from the vendor's published events/webhooks documentation, which enumerates the event
-    type verbatim. Stream binding and schema are provisional candidate values subject to canonical-admission
-    review.
+    reference: 'https://www.twilio.com/docs/usage/webhooks (Twilio events documentation;
+      event type: message.queued)'
+  rationale: Cited from the vendor's published events/webhooks documentation, which
+    enumerates the event type verbatim. Stream binding and schema are provisional
+    candidate values subject to canonical-admission review.
 tags:
 - twilio
 - event-type
 slug: twilio-message-queued
+assigned_id: dea:event-twilio-message-queued-ax66vr
+admitted: '2026-11-14'

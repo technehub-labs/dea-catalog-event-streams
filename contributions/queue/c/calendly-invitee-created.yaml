@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: vendor-catalogs.json
 source_ref: 'Calendly events: invitee.created'
 name: 'Calendly event: invitee.created'
-description: invitee.created — a documented Calendly event type, as enumerated on the Calendly events/webhooks
-  documentation page. Event semantics follow the vendor's published definition; stream binding is provisional.
+description: invitee.created — a documented Calendly event type, as enumerated on
+  the Calendly events/webhooks documentation page. Event semantics follow the vendor's
+  published definition; stream binding is provisional.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://developer.calendly.com/api-docs/ZG9jOjM1NjA5MTkw-webhook-signature (Calendly events
-      documentation; event type: invitee.created)'
-  rationale: Cited from the vendor's published events/webhooks documentation, which enumerates the event
-    type verbatim. Stream binding and schema are provisional candidate values subject to canonical-admission
-    review.
+    reference: 'https://developer.calendly.com/api-docs/ZG9jOjM1NjA5MTkw-webhook-signature
+      (Calendly events documentation; event type: invitee.created)'
+  rationale: Cited from the vendor's published events/webhooks documentation, which
+    enumerates the event type verbatim. Stream binding and schema are provisional
+    candidate values subject to canonical-admission review.
 tags:
 - calendly
 - event-type
 slug: calendly-invitee-created
+assigned_id: dea:event-calendly-invitee-created-438s7w
+admitted: '2026-11-14'

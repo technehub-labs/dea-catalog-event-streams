@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: vendor-catalogs.json
 source_ref: 'Stripe events: invoice.finalized'
 name: 'Stripe event: invoice.finalized'
-description: invoice.finalized — a documented Stripe event type, as enumerated on the Stripe events/webhooks
-  documentation page. Event semantics follow the vendor's published definition; stream binding is provisional.
+description: invoice.finalized — a documented Stripe event type, as enumerated on
+  the Stripe events/webhooks documentation page. Event semantics follow the vendor's
+  published definition; stream binding is provisional.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://docs.stripe.com/api/events/types (Stripe events documentation; event type: invoice.finalized)'
-  rationale: Cited from the vendor's published events/webhooks documentation, which enumerates the event
-    type verbatim. Stream binding and schema are provisional candidate values subject to canonical-admission
-    review.
+    reference: 'https://docs.stripe.com/api/events/types (Stripe events documentation;
+      event type: invoice.finalized)'
+  rationale: Cited from the vendor's published events/webhooks documentation, which
+    enumerates the event type verbatim. Stream binding and schema are provisional
+    candidate values subject to canonical-admission review.
 tags:
 - stripe
 - event-type
 slug: stripe-invoice-finalized
+assigned_id: dea:event-stripe-invoice-finalized-cvc9e2
+admitted: '2026-11-14'
