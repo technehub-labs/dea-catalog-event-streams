@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### CR-EVT-CAT-08: Canonical Admission Wave
+
+1026 Event records promoted from the candidate slot to the canonical slot (provenance ladder completed per record; evidence citations preserved; ids untouched). Index: canonical 1026, candidates 0. All gates green.
+
 ### CR-EVT-CAT-07: Event Candidate Admission Batch 02 (supplement)
 
 Admitted 201 new `Event` CANDIDATE records through the gated intake workflow (queue gate → admission tool → catalog gates); ids content-derived and collision-checked; records land in `candidates/` subtrees at `lifecycle_status: proposed` / version 0.1.0; candidates count +201, canonical unchanged; queue entries flipped to `admitted`.
